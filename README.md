@@ -1,5 +1,5 @@
 <div>
-       <img src="drive.google.com/file/d/1R4xjgO0YQmM7X-eTaZpELTdD9MHIyeUu/preview" />
+       <img src="https://raw.githubusercontent.com/RFML-HighPro/RFML-HighPro/main/image/Group 16(1).png" alt="Capa do Github Ryan Felipe"/>
 </div>
 
 
