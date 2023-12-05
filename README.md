@@ -1,5 +1,5 @@
 <div>
-       <iframe src="https://drive.google.com/file/d/1R4xjgO0YQmM7X-eTaZpELTdD9MHIyeUu/preview" width="640" height="480" allow="autoplay"></iframe>
+       <img src="https://drive.google.com/file/d/1R4xjgO0YQmM7X-eTaZpELTdD9MHIyeUu/preview" width="640" height="480" allow="autoplay"><img>
 </div>
 
 <div id='Texto'>
