@@ -28,7 +28,7 @@
           </div>
           <a href="https://github.com//RFML-HighPro/github-stats">
            <img height="180em" src="https://github-readme.stats.vercel.app/api?username=RFML-HighPro&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-           <img height="180em" src="https://github-readme.stats.vercel.app/api?username=RFML-HighPro&layout=compact&langs_count-168theme=dracula"/>
-          <img src="https://github.com/RFML-HighPro/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+           <img height="180em" src="https://github.com/RFML-HighPro/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+          </a>
      </div>
 </div>
