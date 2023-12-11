@@ -26,7 +26,7 @@
                <!--Redes Sociais -->
                //Redes Sociais
           </div>
-           <a href="https://github.com/jstrieb/github-stats">
-          <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+           <a href="https://github.com/RFML-HighPro/github-stats">
+          <img src="https://github.com/RFML-HighPro/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
      </div>
 </div>
