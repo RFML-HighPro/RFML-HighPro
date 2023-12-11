@@ -26,10 +26,7 @@
                <!--Redes Sociais -->
                //Redes Sociais
           </div>
-          <div>
-           <a href="https://githubcom//RFML-HighPro/">
-           <img height="180em" src="https://github-readme.stats.vercel.app/api?username=RFML-HighPro&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-           <img height="180em" src="https://github-readme.stats.vercel.app/top-langs/?username=RFML-HighPro&layout=compact&langs_count-168theme=dracula"/>
-          </div>
+           <a href="https://github.com/jstrieb/github-stats">
+          <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
      </div>
 </div>
