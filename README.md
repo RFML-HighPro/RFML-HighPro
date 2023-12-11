@@ -4,8 +4,11 @@
      </p>
      <div>
           <div>
+               <!-- Título -->
                <p>Desenvolvedor Backend</p>
+               <!-- Imagem do Cartãp -->
                <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px"                     align="right" alt="Computador iuriCode">
+               <!-- Textos ao lado do cartão -->
               <p align="left"> 
                     Chame-me de 'Felipe', estou cursando 'Análise e Desenvolvimento de Sistemas' direcionado para o desenvolvimento web. Selecionei essa vocação, já que emprego 
                     tecnologia para auxiliar o ‘environment work’ e desempenhar alta performance. Demonstrarei como programo, o porquê de abordar investimentos & empreendedorismo e                           musculação.<br/>
@@ -20,6 +23,7 @@
                <br/>
                Outrossim está na realização de atividades físicas para fortalecimento do físico, fomentar a inteligência emocional, proporcionando um corpo funcional e saudável. Valorizo                a musculação pela alta intensidade promovida em cada esforço, bem como a evolução frequente de resultados. Os melhores benefícios estão: resiliência, aumento de                           autoestima, disciplina, bem-estar psicológico para tarefas complexas. <br/>
                </p>
+               <!--Redes Sociais -->
                //Redes Sociais
           </div>
      </div>
