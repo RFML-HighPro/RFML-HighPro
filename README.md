@@ -1,8 +1,4 @@
 <div>
-     <img src="https://github.com/RFML-HighPro/RFML-HighPro/blob/main/Teste%20(Capa%20github).jpg" alt="Capa do Github Ryan Felipe"/>
-</div>
-
-<div>
      <p style="margin-top:125.1pt; margin-left:116.6pt; text-align:justify; line-height:14.6pt">
           <img src="https://github.com/RFML-HighPro/RFML-HighPro/blob/main/Teste%20(Capa%20github).jpg" alt="Capa do Github Ryan Felipe"/>
      </p>
