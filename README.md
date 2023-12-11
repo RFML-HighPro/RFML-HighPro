@@ -27,6 +27,6 @@
                //Redes Sociais
           </div>
            <a href="https://github.com/RFML-HighPro/github-stats">
-          <img src="https://github.com/RFML-HighPro/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+          <img src="https://github.com/RFML-HighPro/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only" />
      </div>
 </div>
