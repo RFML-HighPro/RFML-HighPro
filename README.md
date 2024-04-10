@@ -1,8 +1,3 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/RFML-HighPro/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
-
-
 <p align="center">Sou um desenvolvedor back-end motivado por desafios e em busca de crescimento contínuo. Iniciei minha jornada na programação explorando o mundo do front-end com JavaScript, mas logo descobri um interesse maior na área de back-end. Ao longo do caminho, dediquei-me aos estudos focados em Node.js e adquiri habilidades em tecnologias como Typescript, Express, MongoDB, MySQL, PostgreeSQL, Docker e Git, além de ferramentas de gestão de projetos como Trello e Miro. Concentrei-me na criação de APIs escaláveis e em sistemas complexos. Com o tempo, tive a oportunidade de experimentar outra tecnologia através da Rocketseat e atualmente estou me especializando em Java.
 <br/> 
 Ao longo da minha trajetória, desenvolvi habilidades sólidas em análise de regras de negócio, tornando-me especialista em identificar e implementar soluções que atendam às necessidades específicas de cada projeto. Minha curiosidade e sede por conhecimento me levaram a explorar profundamente tecnologias de banco de dados como PostgreSQL, MySQL e MongoDB, garantindo que eu possa projetar e implementar sistemas robustos e eficientes.
