@@ -16,7 +16,7 @@ Sinto-me bastante entusiasmado com as oportunidades oferecidas pelo mercado Java
 
 #### Minha Stack:
 
-![Java](https://img.shields.io/badge/
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/
